@@ -148,9 +148,3 @@ If you encounter any issues during the setup, building, or flashing process, ref
 - Monitor error: If the monitor is not displaying output, ensure you're using the correct serial port.
 
 For more detailed troubleshooting, check the Espressif documentation.
-
----
-
-License
-
-This project is licensed under the MIT License. See the LICENSE file for details.
